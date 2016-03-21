@@ -15,7 +15,7 @@ It has multiple personalized sections:
 Print screens:
 
 <img src="https://github.com/tpombeiro87/django-web_cv/blob/master/example_1.png?raw=true" width="450">
-<img src="https://github.com/tpombeiro87/django-web_cv/blob/master/example_2.png?raw=true" width="400">
+<img src="https://github.com/tpombeiro87/django-web_cv/blob/master/example_2.png?raw=true" width="450">
 
 
 
