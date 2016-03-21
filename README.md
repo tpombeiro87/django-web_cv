@@ -32,7 +32,9 @@ Suggestions:
 * Use python 2.7 (not tested for other versions)
 * Use Django version 1.9.4 (not tested for other versions)
 
-To see a demo version you can check my own version: [tpombeiro87.com](http://tpombeiro87.pythonanywhere.com/web-cv/tp.html)
+To play around with a demo version you can check this link: 
+[demo](http://tpombeiro87.pythonanywhere.com/web-cv/tp.html)
+(all changes made will be lost everyday at 00:00 UTC - a reset to the demo database is done)
 
 # To install
 
